@@ -1,5 +1,6 @@
-import yfinance as yf
+import talib  # ADD THIS IMPORT
 import numpy as np
+import yfinance as yf
 from textblob import TextBlob
 from nltk.corpus import stopwords
 
