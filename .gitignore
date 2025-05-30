@@ -1,26 +1,18 @@
-# Byte-compiled / optimized files
-__pycache__/
-*.py[cod]
-*$py.class
+# Data files
+*.csv
+*.parquet
+*.pkl
 
-# Virtual environment
+# Environment files
+.env
 .venv/
-env/
 
-# VS Code settings
-.vscode/
-
-# Jupyter notebook checkpoints
+# Notebooks
 .ipynb_checkpoints/
 
-# OS junk
-.DS_Store
+# Python cache
+__pycache__/
+*.pyc
 
-# Logs, data, cache
-*.log
-*.sqlite3
-*.csv
-*.json
-
-# dotenv
-.env
+# Secrets
+secrets.ini
