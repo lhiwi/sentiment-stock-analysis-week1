@@ -1,0 +1,34 @@
+# Core data processing
+pandas
+numpy
+
+# Financial data & analysis
+yfinance
+pynance
+ta-lib-binary
+mplfinance
+pandas-datareader
+
+# NLP and sentiment analysis
+nltk
+textblob
+gensim
+wordcloud
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistics
+scipy
+statsmodels
+
+# Utility
+tqdm
+requests
+
+# Machine learning
+scikit-learn
+
+# Testing
+pytest
